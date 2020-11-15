@@ -717,7 +717,7 @@ Source: [Stanford ML Cheatsheet](https://stanford.edu/~shervine/teaching/cs-221/
 
 There are two methods we can take to split our dataset. First, set aside a percentage of our data and split it into three sets. Alternatively, we can split our dataset into two sets (train and test), then take a percentage of the train set for our validation set. The split percentage will depend on our model and the number of data points we have. Our validation set will depend on how many hyperparameters we need to tune (i.e. more hyperparameters = larger validation set). Training set splits are largely dependent on the type of model we use. We will figure out a good ratio when we begin to talk about **cross-validation**. If we go with the latter method, we could try an 80/20 split in favor of training, then take a percentage of the validation set. In this cross-validation process, we use our training set to create multiple splits of the train and validation sets, and then train and evaluate these sets iteratively.
 
-![Data Splitting](Dataset_Splitting.png)
+![Data Splitting](/assets/Dataset_Splitting.png)
 Image Source: [KDNuggets](https://www.kdnuggets.com/2020/05/dataset-splitting-best-practices-python.html)
 
 **Training set**: A sample of data used to fit the model.
