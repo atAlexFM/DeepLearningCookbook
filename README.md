@@ -19,7 +19,7 @@
   - [Optimizing Algorithms](#optimizing-algorithms)
 - [Process of Implementing and Deploying Deep Learning Models](#process-of-implementing-and-deploying-deep-learning-models)
 - [Understanding the Problem](#understanding-the-problem)
-  - [How to Online Learn Better](#how-to-online-learn-better)
+  - [Tips For Learning Deep Learning Online](#tips-for-learning-deep-learning-online)
 - [Understanding the Data and Loading it](#understanding-the-data-and-loading-it)
   - [Geometric Intuition of Data](#geometric-intuition-of-data)
   - [Scalars, Vectors, Matrices, and Tensors](#scalars-vectors-matrices-and-tensors)
@@ -625,7 +625,7 @@ We may be able to simplify model selection with a more basic heuristic given the
 1. Use **ensembles of decision trees** (i.e., random forests and gradient boosting machines), mainly for **structured data**
 2. Use **ANNs with Stochastic Gradient Descent** (i.e., shallow and/or deep learning), mainly for **unstructured data** (like audio, images, and natural language)
 
-## How to Online Learn Better
+## Tips For Learning Deep Learning Online
 
 A lot of online DL resources either oversimplify and teach the bare minimum of what this technology can do or throw a bunch of models, algorithms, and architectures at you and hope you know what you are doing. To get the most out of DL, read research papers, work on codebases leveraging DL, and focus on a select few models, algorithms, and architectures. 
 
